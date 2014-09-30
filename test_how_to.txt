@@ -1,0 +1,7 @@
+phpunit-skelgen --test Calculator
+
+
+phpunit --bootstrap Calculator.php --verbose CalculatorTest
+
+
+
